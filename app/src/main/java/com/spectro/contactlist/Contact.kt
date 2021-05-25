@@ -2,7 +2,7 @@ package com.spectro.contactlist
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
-
+//test
 @Parcelize
 data class Contact(
     var name: String,
