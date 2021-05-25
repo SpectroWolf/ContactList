@@ -34,7 +34,7 @@
 "
             app:layout_constraintStart_toEndOf="@+id/iv_photograph"
             app:layout_constraintTop_toTopOf="@+id/iv_photograph"
-            tools:text="Nome do Contato" />
+            tools:text="@string/contact_name" />
 
         <TextView
             android:id="@+id/tv_phone"

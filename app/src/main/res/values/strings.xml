@@ -7,4 +7,6 @@
 
     <string name="open_drawer">Abrir</string>
     <string name="close_drawer">Fechar</string>
+
+    <string name="contact_name">Nome do Contato</string>
 </resources>

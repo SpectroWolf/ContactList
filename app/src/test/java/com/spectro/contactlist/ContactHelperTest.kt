@@ -9,9 +9,11 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleUnitTest {
+class ContactHelperTest {
     @Test
-    fun addition_isCorrect() {
-        assertEquals(4, 2 + 2)
+    fun `Quando chamar o metodo getListContact() com 2 contatos, deve retornar uma lista de 2 contatos`(){
+        //Prepara
+
+        //Valida
     }
 }
